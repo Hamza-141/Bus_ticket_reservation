@@ -81,7 +81,7 @@ string selectOrigin() {
     
     
     // SHOWS DEPARTURE POINTS
-    cout << "\n\tPLEASE SELECT YOUR JOURNEY'S ORIGIN (enter number)\n";
+    cout << "\n\tPLEASE SELECT YOUR DEPARTURE POINT (enter number)\n";
     cout << "\t1. KARACHI\n";
     cout << "\t2. ISLAMABAD\n";
     cout << "\t3. LAHORE\n";
@@ -111,7 +111,7 @@ string selectDestination() {
     int dest;
     
     // SHOWS AVAILABLE DESTINATIONS POINTS
-    cout << "\n\tPLEASE SELECT YOUR JOURNEY'S DESTINATION (enter number)\n";
+    cout << "\n\tPLEASE SELECT YOUR DESTINATION POINT (enter number)\n";
     cout << "\t1. KARACHI\n";
     cout << "\t2. ISLAMABAD\n";
     cout << "\t3. LAHORE\n";
